@@ -1,0 +1,54 @@
+{
+  "name": "Einstem - Innovación Educativa",
+  "short_name": "Einstem - Innovación Educativa",
+  "lang": "es-CO",
+  "theme_color": "#115CFA",
+  "background_color": "#FFF",
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  "icons": [
+    {
+      "src": "/images/favicon_hue561298002748aba41d4fdcf91019dc6_18227_48x0_resize_box_3.png",
+      "sizes": "48x48",
+      "type": "image/png"
+    },
+    {
+      "src": "/images/favicon_hue561298002748aba41d4fdcf91019dc6_18227_72x0_resize_box_3.png",
+      "sizes": "72x72",
+      "type": "image/png"
+    },
+    {
+      "src": "/images/favicon_hue561298002748aba41d4fdcf91019dc6_18227_96x0_resize_box_3.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    },
+    {
+      "src": "/images/favicon_hue561298002748aba41d4fdcf91019dc6_18227_144x0_resize_box_3.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "/images/favicon_hue561298002748aba41d4fdcf91019dc6_18227_192x0_resize_box_3.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/images/favicon_hue561298002748aba41d4fdcf91019dc6_18227_512x0_resize_box_3.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  
+  
+  "display": "standalone",
+  "start_url": "/?utm_source=web_app_manifest"
+}

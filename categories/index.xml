@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Einstem - Innovación Educativa</title>
+    <link>/categories/</link>
+    <description>Recent content in Categories on Einstem - Innovación Educativa</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-CO</language>
+    <lastBuildDate>Sun, 24 Jan 2021 18:19:25 +0600</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ciencia</title>
+      <link>/categories/ciencia/</link>
+      <pubDate>Sun, 24 Jan 2021 18:19:25 +0600</pubDate>
+      
+      <guid>/categories/ciencia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Colombia</title>
+      <link>/categories/colombia/</link>
+      <pubDate>Sun, 24 Jan 2021 18:19:25 +0600</pubDate>
+      
+      <guid>/categories/colombia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>drone</title>
+      <link>/categories/drone/</link>
+      <pubDate>Sun, 24 Jan 2021 18:19:25 +0600</pubDate>
+      
+      <guid>/categories/drone/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Educación</title>
+      <link>/categories/educaci%C3%B3n/</link>
+      <pubDate>Sun, 24 Jan 2021 18:19:25 +0600</pubDate>
+      
+      <guid>/categories/educaci%C3%B3n/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Programación</title>
+      <link>/categories/programaci%C3%B3n/</link>
+      <pubDate>Sun, 24 Jan 2021 18:19:25 +0600</pubDate>
+      
+      <guid>/categories/programaci%C3%B3n/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>programming</title>
+      <link>/categories/programming/</link>
+      <pubDate>Sun, 24 Jan 2021 18:19:25 +0600</pubDate>
+      
+      <guid>/categories/programming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robótica</title>
+      <link>/categories/rob%C3%B3tica/</link>
+      <pubDate>Sun, 24 Jan 2021 18:19:25 +0600</pubDate>
+      
+      <guid>/categories/rob%C3%B3tica/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>STEM</title>
+      <link>/categories/stem/</link>
+      <pubDate>Sun, 24 Jan 2021 18:19:25 +0600</pubDate>
+      
+      <guid>/categories/stem/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
